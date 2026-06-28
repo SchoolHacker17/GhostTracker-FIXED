@@ -1,5 +1,6 @@
 # GhostTrack
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+(This is a modified version of the original script. Credits to the original creator, @HunxByts)
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
 
